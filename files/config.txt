@@ -1,0 +1,10 @@
+# Sudoku Solver Configuration File
+# Format: key=value
+
+theme=dark
+username=Player
+show_timer=true
+animation_speed=medium
+auto_save=true
+difficulty=medium
+
