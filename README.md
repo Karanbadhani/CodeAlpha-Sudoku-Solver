@@ -231,16 +231,15 @@ Where **n** is the number of empty cells.
 ## 🖼️ Screenshots
 
 <p align='center'>
-  <img src='screenshots/menu.png' width='700' alt='Main Menu'/>
+  <img width="1170" height="725" alt="IMG_6141" src="https://github.com/user-attachments/assets/82896d6a-c5de-40ab-b619-0692efddc329" />
+
 </p>
 
 <p align='center'>
-  <img src='screenshots/solving.png' width='700' alt='Solving Process'/>
+ <img width="1170" height="696" alt="IMG_6142" src="https://github.com/user-attachments/assets/a6e6654d-9ae4-4054-bd5b-f09218a24a53" />
+
 </p>
 
-<p align='center'>
-  <img src='screenshots/statistics.png' width='700' alt='Statistics'/>
-</p>
 
 ---
 
