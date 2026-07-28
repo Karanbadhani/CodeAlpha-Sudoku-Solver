@@ -239,8 +239,9 @@ Where **n** is the number of empty cells.
  <img width="1170" height="696" alt="IMG_6142" src="https://github.com/user-attachments/assets/a6e6654d-9ae4-4054-bd5b-f09218a24a53" />
 
 </p>
-
-
+</p>
+https://www.linkedin.com/posts/karan-badhani-b8932837a_codealpha-internship-cplusplus-ugcPost-7487854120142389248-bkbd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF2qIpkBOvbgQrf4vmrbadAvFRvksvM_v4g
+<\p>
 ---
 
 ## 🌟 What Makes This Project Stand Out?
