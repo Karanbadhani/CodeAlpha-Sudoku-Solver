@@ -1,8 +1,7 @@
 # 🧩 Professional Sudoku Solver System
 
 > **CodeAlpha C++ Programming Internship - Task 3**
-<p align='center'>
-  <img src='screenshots/banner.png' alt='Sudoku Solver Banner' width='900'/>
+c='screenshots/banner.png' alt='Sudoku Solver Banner' width='900'/>
 </p>
 
 <p align='center'>
